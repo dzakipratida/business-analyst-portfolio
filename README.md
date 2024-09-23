@@ -7,6 +7,7 @@ I have a tech background in Computer Science and currently studying for my Maste
 Here, I'd love to showcase my project in Business Analytics at the entry level.
 **Resume** in pdf here.
 
+
 # Protfolio Projects
 
 **Portfolio: Analytics for HRBP**
@@ -14,6 +15,12 @@ Skills: HRBP, data analytics, data visualization
 
 **Portfolio: Analytics for Marketing**
 Skills: digital marketing, data analytics, data visualization
+
+
+# Skills
+
+Python, Google Analytics, Tableau, Paid Advertising, SEMrush
+
 
 # Education
 
