@@ -1,6 +1,6 @@
 # Business Analyst Portfolio
 
-Hi, I'm **Muhammad Dzaki Pratida**! I'm a marketing analyst / digital marketer with 3+ years of experience. 
+Hi, I'm **Muhammad Dzaki Pratida**! I'm a marketing analyst & digital marketer with 3+ years of experience. 
 
 I have a tech background in Computer Science and currently studying for my Master's in Digital Business & Innovation at IE Business School, Spain. Throughout my experience and educational background, I have developed a strong foundation for bridging the gaps between tech and business.
 
