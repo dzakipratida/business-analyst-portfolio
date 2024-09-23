@@ -11,9 +11,11 @@ Here, I'd love to showcase my project in Business Analytics at the entry level.
 # Protfolio Projects
 
 **Portfolio: Analytics for HRBP**
+
 Skills: HRBP, data analytics, data visualization
 
 **Portfolio: Analytics for Marketing**
+
 Skills: digital marketing, data analytics, data visualization
 
 
