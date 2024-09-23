@@ -8,7 +8,7 @@ Here, I'd love to showcase my project in Business Analytics at the entry level.
 **Resume** in pdf here.
 
 
-# Protfolio Projects
+## Portfolio Projects
 
 **Portfolio: Analytics for HRBP**
 
@@ -20,19 +20,19 @@ Skills: HRBP, data analytics, data visualization
 Skills: digital marketing, data analytics, data visualization
 
 
-# Skills
+## Skills
 
 Python, Google Analytics, Tableau, Paid Advertising, SEMrush
 
 
-# Education
+## Education
 
-Master in Digital Business & Innovation
+- Master in Digital Business & Innovation
 
 IE Business School, Spain
 
 
-Bachelor in Computer Science
+- Bachelor in Computer Science
 
 Universitas Gadjah Mada, Indonesia
 
