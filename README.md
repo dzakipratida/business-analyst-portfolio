@@ -23,7 +23,7 @@ Skills: digital marketing, data analytics, data visualization.
 
 ## Skills
 
-Python, Google Analytics, Tableau, Paid Advertising, SEMrush
+Python, Excel, Google Analytics, Tableau, Paid Advertising, SEMrush
 
 
 ## Education
