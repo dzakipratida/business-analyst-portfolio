@@ -6,7 +6,7 @@ I have a tech background in Computer Science and currently studying for my Maste
 
 Here, I'd love to showcase my project in Business Analytics at the entry level.
 
-**Resume** in pdf here.
+**Resume** in pdf [here](https://github.com/dzakipratida/business-analyst-portfolio/blob/main/CV%20Muhammad%20Dzaki%20Pratida.pdf).
 
 
 ## Portfolio Projects
