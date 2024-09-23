@@ -14,6 +14,7 @@ Here, I'd love to showcase my project in Business Analytics at the entry level.
 
 Skills: HRBP, data analytics, data visualization
 
+
 **Portfolio: Analytics for Marketing**
 
 Skills: digital marketing, data analytics, data visualization
@@ -27,8 +28,11 @@ Python, Google Analytics, Tableau, Paid Advertising, SEMrush
 # Education
 
 Master in Digital Business & Innovation
+
 IE Business School, Spain
 
+
 Bachelor in Computer Science
+
 Universitas Gadjah Mada, Indonesia
 
