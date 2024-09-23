@@ -33,3 +33,8 @@ Python, Google Analytics, Tableau, Paid Advertising, SEMrush
 
 - Bachelor in Computer Science - Universitas Gadjah Mada, Indonesia
 
+
+## Contact
+
+LinkedIn [Muhammad Dzaki Pratida](http://linkedin.com/in/muhammad-dzaki-pratida/)
+
