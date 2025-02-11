@@ -1,6 +1,6 @@
 # Business Analyst Portfolio
 
-Hi, I'm **Muhammad Dzaki Pratida**! I'm a marketing analyst & digital marketer with 3+ years of experience. 
+Hi, I'm Muhammad **Dzaki** Pratida! I'm a marketing analyst & digital marketer with 3+ years of experience. 
 
 I have a tech background in Computer Science and currently studying for my Master's in Digital Business & Innovation at IE Business School, Spain. Throughout my experience and educational background, I have developed a strong foundation for bridging the gaps between tech and business.
 
@@ -11,19 +11,20 @@ Here, I'd love to showcase my project in Business Analytics at the entry level.
 
 ## Portfolio Projects
 
-### **Analytics for HRBP**
+### **Case 1: House Pricing Prediction**
 
 Skills: HRBP, data analytics, data visualization.
 
 
-### **Analytics for Marketing**
+### **Case 2: Renfe Sales Performance**
 
-Skills: digital marketing, data analytics, data visualization.
+Skills: business operations, data analytics, data visualization.
 
 
 ## Skills
 
-Python, Excel, Google Analytics, Tableau, Paid Advertising, SEMrush
+- Coding: Python, SQL, Excel
+- Data Visualization: Tableau, Google Analytics, Google Looker Studio (Data Studio)
 
 
 ## Education
