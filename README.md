@@ -1,24 +1,26 @@
 # Business Analyst Portfolio
 
-Hi, I'm Muhammad **Dzaki** Pratida! I'm a marketing analyst & digital marketer with 3+ years of experience. 
+Hi, I'm Muhammad **Dzaki** Pratida! I'm a marketing analyst with 2+ years of experience. 
 
-I have a tech background in Computer Science and currently studying for my Master's in Digital Business & Innovation at IE Business School, Spain. Throughout my experience and educational background, I have developed a strong foundation for bridging the gaps between tech and business.
+I love story-telling and building narratives around the data. I realized that it’s an essential tool for solving problems and driving results. My technical background in computer science led me to marketing analytics experience. I’m expanding my knowledge by taking a Master’s in Digital Business and Innovation to bridge the gap between business and technology. I’m excited to bring my passion for storytelling and data-driven strategy to a new opportunity.
 
-Here, I'd love to showcase my project in Business Analytics at the entry level.
+Here, I'd love to showcase my project in Business Analytics based on my previous projects.
 
 **Resume** in pdf [here](https://github.com/dzakipratida/business-analyst-portfolio/blob/d77ff1e5c4993cf62f17a2806ed1d9ccfc0cf9e6/CV%20Muhammad%20Dzaki%20Pratida%20-%20Analytics.pdf).
 
 
-## Portfolio Projects
+## Portfolio
 
-### **Case 1: House Pricing Prediction**
+### **Project 1: Renfe Sales Performance**
 
-Skills: HRBP, data analytics, data visualization.
-
-
-### **Case 2: Renfe Sales Performance**
-
+Case Study:
 Skills: business operations, data analytics, data visualization.
+
+
+### **Project 2: House Pricing Prediction**
+
+Case Study:
+Skills: data analytics, machine learning.
 
 
 ## Skills
