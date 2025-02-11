@@ -27,6 +27,7 @@ Skills: data analytics, machine learning.
 
 - Coding: Python, SQL, Excel
 - Data Visualization: Tableau, Google Analytics, Google Looker Studio (Data Studio)
+- AWS Cloud Foundation
 
 
 ## Education
