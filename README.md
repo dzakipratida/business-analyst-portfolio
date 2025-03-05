@@ -24,7 +24,7 @@ Skills: data analytics, machine learning.
 Case Study:
 Skills: sales analytics, data visualization.
 
-**Study Case** [check here]().
+**Study Case** [check here](https://github.com/dzakipratida/business-analyst-portfolio/blob/ad1959a563f916ff8317a0f1239d4fc3d6833359/Renfe%20Data%20Visualization.pdf).
 
 
 ## Skills
