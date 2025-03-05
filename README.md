@@ -6,7 +6,7 @@ I love story-telling and building narratives around the data. I realized that it
 
 Here, I'd love to showcase my project in Business Analytics based on my previous projects.
 
-**Resume** in pdf [here](https://github.com/dzakipratida/business-analyst-portfolio/blob/d77ff1e5c4993cf62f17a2806ed1d9ccfc0cf9e6/CV%20Muhammad%20Dzaki%20Pratida%20-%20Analytics.pdf).
+**Resume** in pdf [here](https://github.com/dzakipratida/business-analyst-portfolio/blob/437e7e58750ca3b42dfd36868ff72a2e9a58cfbc/Resume%20Data%20Analyst%20-%20Muhammad%20Dzaki%20Pratida.pdf).
 
 
 ## Portfolio
