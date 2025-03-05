@@ -1,6 +1,6 @@
 # Business Analyst Portfolio
 
-Hi, I'm Muhammad **Dzaki** Pratida! I'm a marketing analyst with 2+ years of experience. 
+Hi, I'm Muhammad **Dzaki** Pratida! 
 
 I love story-telling and building narratives around the data. I realized that it’s an essential tool for solving problems and driving results. My technical background in computer science led me to marketing analytics experience. I’m expanding my knowledge by taking a Master’s in Digital Business and Innovation to bridge the gap between business and technology. I’m excited to bring my passion for storytelling and data-driven strategy to a new opportunity.
 
@@ -11,23 +11,32 @@ Here, I'd love to showcase my project in Business Analytics based on my previous
 
 ## Portfolio
 
-### **Project 1: Renfe Sales Performance**
-
-Case Study:
-Skills: business operations, data analytics, data visualization.
-
-
-### **Project 2: House Pricing Prediction**
+### **Project 1: House Pricing Prediction**
 
 Case Study:
 Skills: data analytics, machine learning.
+
+**Python Code** [check here](https://github.com/dzakipratida/business-analyst-portfolio/blob/ffae48dbc0106d3e160ae7cf5bf85b8177adf988/House%20Prediction.ipynb).
+
+
+### **Project 2: Renfe Sales Performance**
+
+Case Study:
+Skills: sales analytics, data visualization.
+
+**Study Case** [check here]().
 
 
 ## Skills
 
 - Coding: Python, SQL, Excel
-- Data Visualization: Tableau, Google Analytics, Google Looker Studio (Data Studio)
-- AWS Cloud Foundation
+- Data Visualization: Tableau
+- Analytics Tools: Google Analytics, Google Tag Manager, Google Looker Studio (Data Studio)
+
+## Certification
+
+- Google Analytics Certified - Advanced
+- Generative AI for Business Professionals by IE Business School
 
 
 ## Education
